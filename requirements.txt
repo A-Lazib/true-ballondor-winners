@@ -1,0 +1,11 @@
+jupyter
+ipykernel
+numpy
+pandas
+requests
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+scikit-learn
+html5lib
